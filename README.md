@@ -1,8 +1,5 @@
 # AK9723AJ Tuning System
-
-**ESE 476 Embedded Systems Laboratory — Stony Brook University**
-*Authors: Faid Faisal & Melchai Mathew*
-
+![Hardware Setup](hardware.png)
 ---
 
 ## Overview
